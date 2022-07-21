@@ -1,3 +1,14 @@
+Las tecnologias ocupadas son:
+-> Node.js
+-> Express.js
+-> Typescript
+-> Postgres 
+-> Joi
+-> Passport
+-> Jwt
+-> Docker
+```
+
 #Nuevo usuario
 
 - Endpoint para registrar nuevos usuarios. 
